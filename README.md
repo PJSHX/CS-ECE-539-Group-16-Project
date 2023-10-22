@@ -1,5 +1,6 @@
 # CS-ECE-539-Group-16-Project
-
+## Contributors
+PJSHX: Peter Harmer, pharmer@wisc.edu
 
 
 
