@@ -1,4 +1,5 @@
-# CS-ECE-539-Group-16-Project
+# Extractive One Sentence Summation of News Articles. 
+
 ## Contributors
 PJSHX: Peter Harmer, pharmer@wisc.edu
 
